@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.log
+*.local.ps1
+secrets/
+logs/
+webhook-dumps/
+config.local.json
+*.bak
